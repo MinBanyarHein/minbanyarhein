@@ -1,6 +1,8 @@
+import { BiCommand } from "react-icons/bi"
 import aboutImg from "../assets/about.jpg"
 import { ABOUT_TEXT } from "../constants"
 import {motion} from "framer-motion"
+import { RiUnderline } from "react-icons/ri"
 
 const About = () => {
   return (
