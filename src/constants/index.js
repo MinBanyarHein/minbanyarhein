@@ -5,7 +5,7 @@ import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `I specialize in PHP and Laravel for web development, and I enjoy building dynamic server-side applications. I also have experience in Java and Kotlin for Android development, combining clean code with user-focused design. My interests extend into Business Intelligence, where I explore how data can drive smarter decisions. I'm always learning, building, and looking for ways to turn ideas into reliable, efficient software.`;
 
-export const ABOUT_TEXT = `I'm a passionate developer with a focus on PHP and Laravel, specializing in building dynamic and efficient server-side web applications. I also have hands-on experience in Java and Kotlin for Android development, where I aim to combine clean architecture with user-centric design. Recently, I completed a 3-month remote internship, gaining valuable real-world experience and refining my skills further.
+export const ABOUT_TEXT = `I also have hands-on experience in Java and Kotlin for Android development, where I strive to merge well-structured code with intuitive user experiences. Recently, I completed a 3-month remote internship, gaining valuable real-world experience and refining my skills further.
 
 Beyond development, I'm deeply interested in Business Intelligence exploring how data-driven insights can empower smarter business decisions. I’m also familiar with tools like Firebase to support modern, scalable applications.
 
