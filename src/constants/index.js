@@ -62,14 +62,14 @@ export const PROJECTS = [
     image: project3,
     description:
       "Developed a dynamic e-commerce website with a responsive front end using HTML, CSS, Bootstrap, and JavaScript, and a secure back end powered by PHP, Apache, and MySQL, tailored for automotive products.Enhanced user experience and data security by implementing CRUD functionality, user authentication with login/logout, session control, and cookies, streamlining inventory management and the purchasing process.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+    technologies: ["HTML", "CSS", "Bootstrap", "mySQL","JavaScript"],
   },
   {
     title: "Web-Based Mobile App Development",
     image: project4,
     description:
       "Built a responsive course selection and checkout platform using HTML, CSS, Vue.js, Node.js, and MongoDB, enabling real-time browsing and filtering of courses by name, price, and location.Enhanced the user experience with dynamic search functionality and secure checkout authentication, requiring users to input their phone number and name for improved security and accessibility.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+    technologies: ["HTML", "CSS", "Vue.js", "MongoDB", "Node.js"],
   },
 ];
 
