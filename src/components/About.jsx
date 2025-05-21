@@ -1,5 +1,6 @@
 import { BiCommand } from "react-icons/bi"
 import aboutImg from "../assets/about.jpg"
+import profilePic from "../assets/myImg.jpg"
 import { ABOUT_TEXT } from "../constants"
 import {motion} from "framer-motion"
 import { RiUnderline } from "react-icons/ri"
@@ -18,7 +19,7 @@ const About = () => {
             transition= {{duration: 0.8}}
             className="w-full lg:w-1/2 lg:p-8">
                 <div className="flex item-center justify-center">
-                    <img className="rounded-2xl" src={aboutImg} alt="" />
+                    <img className="rounded-2xl" src={profilePic} alt="" />
                 </div>
                 
             </motion.div>
