@@ -14,7 +14,7 @@ Whether it's web or mobile, I’m always learning, building, and driven by the c
 export const EXPERIENCES = [
   {
     year: "October 2024 - January 2025",
-    role: "Senior Full Stack Developer",
+    role: "Intern Software Engineer",
     company: "Net Scriper",
     description: `I was responsible for developing responsive web pages using HTML, CSS, and JavaScript. I collaborated with designers to implement UI/UX features, optimized code for performance, and used Git for version control. I also participated in agile workflows and began exploring backend technologies like Node.js, gaining hands-on experience in full stack development.`,
     technologies: ["Javascript", "Node.js", "HTML", "CSS"],
